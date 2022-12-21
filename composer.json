@@ -1,0 +1,15 @@
+{
+    "name": "micha/cmf",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Michał Borowiec",
+            "email": "michal@cursed.pl"
+        }
+    ],
+    "require": {}
+}
